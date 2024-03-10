@@ -1,2 +1,3 @@
 # Amazon-CLone
-An amazon clone made while following instructions of Apna College
+An amazon clone made while following instructions of Apna College <br>
+SMTXT7
