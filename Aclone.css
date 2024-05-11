@@ -8,6 +8,8 @@
     color: white;
     background-color: #0f1111;
     display: flex;
+    padding-left: 5px;
+    padding-right: 5px;
     align-items: center;
     align-content: space-evenly;
 }
